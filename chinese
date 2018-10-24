@@ -31,83 +31,83 @@ http://223.110.242.130:6610/gitv/live1/G_CCTV-13-HQ/1.m3u8
 http://ott.js.chinamobile.com/PLTV/3/224/3221227201/index.m3u8
 #EXTINF:-1 ,CCTV-15
 http://ott.js.chinamobile.com/PLTV/3/224/3221225568/index.m3u8
-#EXTINF:-1 ,CCTV椋庝簯闊充箰
+#EXTINF:-1 ,CCTV风云音乐
 http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000613/index.m3u8
-#EXTINF:-1 ,CCTV椋庝簯瓒崇悆
+#EXTINF:-1 ,CCTV风云足球
 http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000618/index.m3u8
-#EXTINF:-1 ,CCTV浣撹偛璧涗簨
+#EXTINF:-1 ,CCTV体育赛事
 http://39.134.52.161/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225496/index.m3u8
-#EXTINF:-1 ,CCTV鍙戠幇涔嬫梾
+#EXTINF:-1 ,CCTV发现之旅
 http://ott.js.chinamobile.com/PLTV/4/224/3221227030/index.m3u8
-#EXTINF:-1 ,CCTV鑰佹晠浜?
+#EXTINF:-1 ,CCTV老故事
 http://ott.js.chinamobile.com/PLTV/4/224/3221227043/index.m3u8
-#EXTINF:-1 ,CCTV鍥介槻鍐涗簨
+#EXTINF:-1 ,CCTV国防军事
 http://112.50.243.8/PLTV/88888888/224/3221226592/1.m3u8
-#EXTINF:-1 ,CCTV鎬€鏃у墽鍦?
+#EXTINF:-1 ,CCTV怀旧剧场
 http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000622/index.m3u8
-#EXTINF:-1 ,====== 鍦版柟鍗 ======
+#EXTINF:-1 ,====== 地方卫视 ======
 http://1/1.m3u8
-#EXTINF:-1 ,婀栧崡鍗
+#EXTINF:-1 ,湖南卫视
 http://223.110.243.173/PLTV/3/224/3221227220/index.m3u8
-#EXTINF:-1 ,娴欐睙鍗
+#EXTINF:-1 ,浙江卫视
 http://223.110.243.173/PLTV/3/224/3221227215/index.m3u8
-#EXTINF:-1 ,涓滄柟鍗
+#EXTINF:-1 ,东方卫视
 http://223.110.243.138/PLTV/3/224/3221227208/index.m3u8
-#EXTINF:-1 ,姹熻嫃鍗
+#EXTINF:-1 ,江苏卫视
 http://223.110.243.160/PLTV/3/224/3221227255/index.m3u8
-#EXTINF:-1 ,娣卞湷鍗
+#EXTINF:-1 ,深圳卫视
 http://223.110.243.171/PLTV/3/224/3221227217/index.m3u8
-#EXTINF:-1 ,璐靛窞鍗
+#EXTINF:-1 ,贵州卫视
 http://223.110.243.152/PLTV/3/224/3221225540/index.m3u8
-#EXTINF:-1 ,灞变笢鍗
+#EXTINF:-1 ,山东卫视
 http://223.110.243.171/PLTV/3/224/3221227258/index.m3u8
-#EXTINF:-1 ,瀹夊窘鍗
+#EXTINF:-1 ,安徽卫视
 http://223.110.243.140/PLTV/3/224/3221225634/index.m3u8
-#EXTINF:-1 ,骞夸笢鍗
+#EXTINF:-1 ,广东卫视
 http://223.110.243.136/PLTV/3/224/3221227249/index.m3u8
-#EXTINF:-1 ,鍖椾含鍗
+#EXTINF:-1 ,北京卫视
 http://223.110.243.173/PLTV/3/224/3221227246/index.m3u8
-#EXTINF:-1 ,澶╂触鍗
+#EXTINF:-1 ,天津卫视
 http://223.110.243.170/PLTV/3/224/3221227212/index.m3u8
-#EXTINF:-1 ,閲嶅簡鍗
+#EXTINF:-1 ,重庆卫视
 http://223.110.243.146/PLTV/3/224/3221225594/index.m3u8
-#EXTINF:-1 ,榛戦緳姹熷崼瑙?
+#EXTINF:-1 ,黑龙江卫视
 http://223.110.243.169/PLTV/3/224/3221227252/index.m3u8
-#EXTINF:-1 ,姹熻タ鍗
+#EXTINF:-1 ,江西卫视
 http://223.110.243.173/PLTV/3/224/3221227214/index.m3u8
-#EXTINF:-1 ,涓滃崡鍗
+#EXTINF:-1 ,东南卫视
 http://223.110.243.158/PLTV/3/224/3221225598/index.m3u8
-#EXTINF:-1 ,娌冲寳鍗
+#EXTINF:-1 ,河北卫视
 http://223.110.243.140/PLTV/3/224/3221225602/index.m3u8
-#EXTINF:-1 ,灞辫タ鍗
+#EXTINF:-1 ,山西卫视
 http://223.110.243.159/PLTV/3/224/3221225576/index.m3u8
-#EXTINF:-1 ,婀栧寳鍗
+#EXTINF:-1 ,湖北卫视
 http://223.110.243.171/PLTV/3/224/3221227211/index.m3u8
-#EXTINF:-1 ,闈掓捣鍗
+#EXTINF:-1 ,青海卫视
 http://223.110.243.158/PLTV/3/224/3221225580/index.m3u8
-#EXTINF:-1 ,娌冲崡鍗
+#EXTINF:-1 ,河南卫视
 http://223.110.243.147/PLTV/3/224/3221225632/index.m3u8
-#EXTINF:-1 ,鐢樿們鍗
+#EXTINF:-1 ,甘肃卫视
 http://223.110.243.158/PLTV/3/224/3221225590/index.m3u8
-#EXTINF:-1 ,鍐呰挋鍙ゅ崼瑙?
+#EXTINF:-1 ,内蒙古卫视
 http://223.110.243.142/PLTV/3/224/3221225624/index.m3u8
-#EXTINF:-1 ,瀹佸鍗
+#EXTINF:-1 ,宁夏卫视
 http://223.110.243.147/PLTV/3/224/3221225628/index.m3u8
-#EXTINF:-1 ,闄曡タ鍗
+#EXTINF:-1 ,陕西卫视
 http://223.110.243.152/PLTV/3/224/3221225626/index.m3u8
-#EXTINF:-1 ,鏂扮枂鍗
+#EXTINF:-1 ,新疆卫视
 http://223.110.243.140/PLTV/3/224/3221225523/index.m3u8
-#EXTINF:-1 ,浜戝崡鍗
+#EXTINF:-1 ,云南卫视
 http://223.110.243.140/PLTV/3/224/3221225591/index.m3u8
-#EXTINF:-1 ,瑗胯棌鍗
+#EXTINF:-1 ,西藏卫视
 http://223.110.243.145/PLTV/3/224/3221225579/index.m3u8
-#EXTINF:-1 ,====== 杞挱棰戦亾 ======
+#EXTINF:-1 ,====== 轮播频道 ======
 http://2/2.m3u8
-#EXTINF:-1 ,鏋楁鑻?
+#EXTINF:-1 ,林正英
 http://js.hls.huya.com/huyalive/94525224-2460686034-10568566041753944064-2789274542-10057-A-0-1_1200.m3u8
-#EXTINF:-1 ,鍛ㄦ槦椹?
+#EXTINF:-1 ,周星驰
 http://aldirect.hls.huya.com/huyalive/94525224-2460685313-10568562945082523648-2789274524-10057-A-0-1_1200.m3u8
-#EXTINF:-1 ,鎴愰緳
+#EXTINF:-1 ,成龙
 http://aldirect.hls.huya.com/huyalive/94525224-2460685722-10568564701724147712-2789253838-10057-A-0-1_1200.m3u8
 #EXTINF:-1 ,鍒樺痉鍗?
 http://aldirect.hls.huya.com/huyalive/94525224-2467341872-10597152648291418112-2789274550-10057-A-0-1_1200.m3u8
