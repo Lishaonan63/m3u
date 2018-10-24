@@ -1,0 +1,671 @@
+#EXTM3U
+#EXTINF:-1 ,====== CCTV ======
+http://0/0.m3u8
+#EXTINF:-1 ,CCTV1
+http://223.110.242.130:6610/gitv/live1/G_CCTV-1-HQ/1.m3u8
+#EXTINF:-1 ,CCTV2
+http://ott.js.chinamobile.com/PLTV/3/224/3221227207/index.m3u8
+#EXTINF:-1 ,CCTV3
+http://223.110.242.130:6610/gitv/live1/G_CCTV-3-HQ/1.m3u8
+#EXTINF:-1 ,CCTV4
+http://223.110.242.130:6610/gitv/live1/G_CCTV-4-HQ/1.m3u8
+#EXTINF:-1 ,CCTV5
+http://223.110.242.130:6610/gitv/live1/G_CCTV-5-HQ/1.m3u8
+#EXTINF:-1 ,CCTV6
+http://ott.js.chinamobile.com/PLTV/3/224/3221225548/index.m3u8
+#EXTINF:-1 ,CCTV7
+http://223.110.242.130:6610/gitv/live1/G_CCTV-7-HQ/1.m3u8
+#EXTINF:-1 ,CCTV8
+http://223.110.242.130:6610/gitv/live1/G_CCTV-8-HQ/1.m3u8
+#EXTINF:-1 ,CCTV9
+http://ott.js.chinamobile.com/PLTV/3/224/3221225532/index.m3u8
+#EXTINF:-1 ,CCTV10
+http://223.110.242.130:6610/gitv/live1/G_CCTV-10-HQ/1.m3u8
+#EXTINF:-1 ,CCTV11
+http://223.110.242.130:6610/gitv/live1/G_CCTV-11-HQ/1.m3u8
+#EXTINF:-1 ,CCTV12
+http://ott.js.chinamobile.com/PLTV/3/224/3221225556/index.m3u8
+#EXTINF:-1 ,CCTV13
+http://223.110.242.130:6610/gitv/live1/G_CCTV-13-HQ/1.m3u8
+#EXTINF:-1 ,CCTV-14
+http://ott.js.chinamobile.com/PLTV/3/224/3221227201/index.m3u8
+#EXTINF:-1 ,CCTV-15
+http://ott.js.chinamobile.com/PLTV/3/224/3221225568/index.m3u8
+#EXTINF:-1 ,CCTV椋庝簯闊充箰
+http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000613/index.m3u8
+#EXTINF:-1 ,CCTV椋庝簯瓒崇悆
+http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000618/index.m3u8
+#EXTINF:-1 ,CCTV浣撹偛璧涗簨
+http://39.134.52.161/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225496/index.m3u8
+#EXTINF:-1 ,CCTV鍙戠幇涔嬫梾
+http://ott.js.chinamobile.com/PLTV/4/224/3221227030/index.m3u8
+#EXTINF:-1 ,CCTV鑰佹晠浜?
+http://ott.js.chinamobile.com/PLTV/4/224/3221227043/index.m3u8
+#EXTINF:-1 ,CCTV鍥介槻鍐涗簨
+http://112.50.243.8/PLTV/88888888/224/3221226592/1.m3u8
+#EXTINF:-1 ,CCTV鎬€鏃у墽鍦?
+http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000622/index.m3u8
+#EXTINF:-1 ,====== 鍦版柟鍗 ======
+http://1/1.m3u8
+#EXTINF:-1 ,婀栧崡鍗
+http://223.110.243.173/PLTV/3/224/3221227220/index.m3u8
+#EXTINF:-1 ,娴欐睙鍗
+http://223.110.243.173/PLTV/3/224/3221227215/index.m3u8
+#EXTINF:-1 ,涓滄柟鍗
+http://223.110.243.138/PLTV/3/224/3221227208/index.m3u8
+#EXTINF:-1 ,姹熻嫃鍗
+http://223.110.243.160/PLTV/3/224/3221227255/index.m3u8
+#EXTINF:-1 ,娣卞湷鍗
+http://223.110.243.171/PLTV/3/224/3221227217/index.m3u8
+#EXTINF:-1 ,璐靛窞鍗
+http://223.110.243.152/PLTV/3/224/3221225540/index.m3u8
+#EXTINF:-1 ,灞变笢鍗
+http://223.110.243.171/PLTV/3/224/3221227258/index.m3u8
+#EXTINF:-1 ,瀹夊窘鍗
+http://223.110.243.140/PLTV/3/224/3221225634/index.m3u8
+#EXTINF:-1 ,骞夸笢鍗
+http://223.110.243.136/PLTV/3/224/3221227249/index.m3u8
+#EXTINF:-1 ,鍖椾含鍗
+http://223.110.243.173/PLTV/3/224/3221227246/index.m3u8
+#EXTINF:-1 ,澶╂触鍗
+http://223.110.243.170/PLTV/3/224/3221227212/index.m3u8
+#EXTINF:-1 ,閲嶅簡鍗
+http://223.110.243.146/PLTV/3/224/3221225594/index.m3u8
+#EXTINF:-1 ,榛戦緳姹熷崼瑙?
+http://223.110.243.169/PLTV/3/224/3221227252/index.m3u8
+#EXTINF:-1 ,姹熻タ鍗
+http://223.110.243.173/PLTV/3/224/3221227214/index.m3u8
+#EXTINF:-1 ,涓滃崡鍗
+http://223.110.243.158/PLTV/3/224/3221225598/index.m3u8
+#EXTINF:-1 ,娌冲寳鍗
+http://223.110.243.140/PLTV/3/224/3221225602/index.m3u8
+#EXTINF:-1 ,灞辫タ鍗
+http://223.110.243.159/PLTV/3/224/3221225576/index.m3u8
+#EXTINF:-1 ,婀栧寳鍗
+http://223.110.243.171/PLTV/3/224/3221227211/index.m3u8
+#EXTINF:-1 ,闈掓捣鍗
+http://223.110.243.158/PLTV/3/224/3221225580/index.m3u8
+#EXTINF:-1 ,娌冲崡鍗
+http://223.110.243.147/PLTV/3/224/3221225632/index.m3u8
+#EXTINF:-1 ,鐢樿們鍗
+http://223.110.243.158/PLTV/3/224/3221225590/index.m3u8
+#EXTINF:-1 ,鍐呰挋鍙ゅ崼瑙?
+http://223.110.243.142/PLTV/3/224/3221225624/index.m3u8
+#EXTINF:-1 ,瀹佸鍗
+http://223.110.243.147/PLTV/3/224/3221225628/index.m3u8
+#EXTINF:-1 ,闄曡タ鍗
+http://223.110.243.152/PLTV/3/224/3221225626/index.m3u8
+#EXTINF:-1 ,鏂扮枂鍗
+http://223.110.243.140/PLTV/3/224/3221225523/index.m3u8
+#EXTINF:-1 ,浜戝崡鍗
+http://223.110.243.140/PLTV/3/224/3221225591/index.m3u8
+#EXTINF:-1 ,瑗胯棌鍗
+http://223.110.243.145/PLTV/3/224/3221225579/index.m3u8
+#EXTINF:-1 ,====== 杞挱棰戦亾 ======
+http://2/2.m3u8
+#EXTINF:-1 ,鏋楁鑻?
+http://js.hls.huya.com/huyalive/94525224-2460686034-10568566041753944064-2789274542-10057-A-0-1_1200.m3u8
+#EXTINF:-1 ,鍛ㄦ槦椹?
+http://aldirect.hls.huya.com/huyalive/94525224-2460685313-10568562945082523648-2789274524-10057-A-0-1_1200.m3u8
+#EXTINF:-1 ,鎴愰緳
+http://aldirect.hls.huya.com/huyalive/94525224-2460685722-10568564701724147712-2789253838-10057-A-0-1_1200.m3u8
+#EXTINF:-1 ,鍒樺痉鍗?
+http://aldirect.hls.huya.com/huyalive/94525224-2467341872-10597152648291418112-2789274550-10057-A-0-1_1200.m3u8
+#EXTINF:-1 ,鍛ㄦ鼎鍙?
+http://aldirect.hls.huya.com/huyalive/28466698-2689658976-11551997339312848896-2789274534-10057-A-0-1_1200.m3u8
+#EXTINF:-1 ,鏉庤繛鏉?
+http://js.hls.huya.com/huyalive/94525224-2460686093-10568566295157014528-2789253848-10057-A-0-1_1200.m3u8
+#EXTINF:-1 ,娲噾瀹?
+http://tx.hls.huya.com/huyalive/29106097-2689406282-11550912026846953472-2789274558-10057-A-0-1_1200.m3u8
+#EXTINF:-1 ,绉戝够鐢靛奖
+http://aldirect.hls.huya.com/huyalive/28466698-2689656864-11551988268341919744-2847699194-10057-A-0-1_1200.m3u8
+#EXTINF:-1 ,鐢勫瓙涓?
+http://ws4.streamhls.huya.com/huyalive/29169025-2686219938-11537226783573147648-2847699096-10057-A-1524024759-1_1200/playlist.m3u8
+#EXTINF:-1 ,榛勬棩鍗?
+http://ws4.streamhls.huya.com/huyalive/30765679-2523417506-10837995662423883776-2777071322-10057-A-0-1_1200/playlist.m3u8
+#EXTINF:-1 ,闄堝皬鏄?
+http://ws4.streamhls.huya.com/huyalive/30765679-2523417522-10837995731143360512-2777068634-10057-A-0-1_1200/playlist.m3u8
+#EXTINF:-1 ,榛勭櫨楦?
+http://ws4.streamhls.huya.com/huyalive/29169025-2686220062-11537227316149092352-2777037828-10057-A-1524041857-1_1200/playlist.m3u8
+#EXTINF:-1 ,鏂潶妫?
+http://tx.hls.huya.com/huyalive/30765679-2554414705-10971127618396487680-3048991636-10057-A-0-1.m3u8
+#EXTINF:-1 ,寰愬厠瀵兼紨
+http://tx.hls.huya.com/huyalive/29106097-2689447148-11551087544980471808-2789253872-10057-A-1525420294-1.m3u8
+#EXTINF:-1 ,鐗瑰伐
+http://www.lanjianbeer.com/mtv/dlcsfz/cibn.php?id=177
+#EXTINF:-1 ,璧屽崥
+http://js.hls.huya.com/huyalive/29106097-2689446042-11551082794746642432-2789253870-10057-A-0-1_1200.m3u8
+#EXTINF:-1 ,璧屽崥
+http://js.hls.huya.com/huyalive/29106097-2689446042-11551082794746642432-2789253870-10057-A-0-1_1200.m3u8
+#EXTINF:-1 ,濂借幈鍧?
+http://tx.hls.huya.com/huyalive/30765679-2484192572-10669525853706125312-2847687498-10057-A-1521100607-1.m3u8
+#EXTINF:-1 ,棣欐腐鐢靛奖棰戦亾
+http://aldirect.hls.huya.com/huyalive/29106097-2689453724-11551115788685410304-2847687506-10057-A-1525422901-1_1200.m3u8
+#EXTINF:-1 ,鐢靛奖杞挱
+http://al.hls.huya.com/huyalive/94525224-2460686093-10568566295157014528-2789253848-10057-A-0-1.m3u8
+#EXTINF:-1 ,澶х墖鐩存挱
+http://dlhls.cdn.zhanqi.tv/zqlive/7032_0s2qn.m3u8
+#EXTINF:-1 ,TVB鏄熸渤
+http://59.125.55.79:60001/60002.m3u8
+#EXTINF:-1 ,====== 娓境鍙?======
+http://3/3.m3u8
+#EXTINF:-1 ,澹规柊闂籋D
+http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv2/chunklist.m3u8
+#EXTINF:-1 ,涓ぉ鏂伴椈
+http://pulllive-al.wasu.cn/live/1528461345367101.m3u8
+#EXTINF:-1 ,TVBS鏂伴椈鍙?
+http://60.199.188.61/HLS/WG_TVBS-N/01.m3u8
+#EXTINF:-1 ,瀵板畤鏂伴椈
+http://pulllive-al.wasu.cn/live/1528461345367108.m3u8
+#EXTINF:-1 ,鐠扮悆鐢佃鍙?
+http://live-cdn.xzxwhcb.com/hls/r86am856.m3u8
+#EXTINF:-1 ,鍙拌鏂伴椈
+https://skyking.unifieddeliverynetwork.net/Ericsson/twglive_1500k/chunklist.m3u8
+#EXTINF:-1 ,涓ぉ鏂伴椈
+http://pulllive-al.wasu.cn/live/1528461345367101.m3u8
+#EXTINF:-1 ,鍥戒細棰戦亾
+http://61.58.60.230:9000/live/123.m3u8
+#EXTINF:-1 ,瀵板畤鏂伴椈鍙?
+http://pulllive-al.wasu.cn/live/1528461345367108.m3u8
+#EXTINF:-1 ,瀵板畤鍦扮悊
+http://111.48.34.221/wh7f454c46tw1227613198_1085078827/huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225791/index.m3u8
+#EXTINF:-1 ,tvbsHD
+http://210.201.54.100/gtlive2/tc-tvbs/chunklist_w724826045.m3u8
+#EXTINF:-1 ,闈栧ぉ鍗￠€?
+http://61.58.60.230:9000/live/207.m3u8
+#EXTINF:-1 ,闈栨磱鍗￠€?
+http://61.58.60.230:9000/live/206.m3u8
+#EXTINF:-1 ,闈栧ぉ娆箰鍙?
+http://61.58.60.230:9000/live/201.m3u8
+#EXTINF:-1 ,闈栨磱鎴忓墽鍙?
+http://61.58.60.230:9000/live/203.m3u8
+#EXTINF:-1 ,闈栧ぉ璧勮鍙?
+http://61.58.60.230:9000/live/202.m3u8
+#EXTINF:-1 ,闈栧ぉ鑲蹭箰鍙?
+http://61.58.60.230:9000/live/204.m3u8
+#EXTINF:-1 ,闈栧ぉ鍥介檯鍙?
+http://61.58.60.230:9000/live/205.m3u8
+#EXTINF:-1 ,骞哥绌洪枔灞呭
+http://61.58.60.230:9000/live/125.m3u8
+#EXTINF:-1 ,澶х埍涓€
+http://61.58.60.230:9000/live/10.m3u8
+#EXTINF:-1 ,澶х埍浜?
+http://61.58.60.230:9000/live/191.m3u8
+#EXTINF:-1 ,鑰€鎵嶈储缁?
+http://fc_video.bsgroup.com.hk:443/webcast/bshdlive-pc/playlist.m3u8
+#EXTINF:-1 ,鐐规帉璐㈢粡
+http://cclive2.aniu.tv/live/anzb.m3u8
+#EXTINF:-1 ,鐐规帉璐㈢粡
+http://cdnlz.tv189.com/live/laozuo-600k/playlist.m3u8
+#EXTINF:-1 ,鐐规帉璐㈢粡
+http://bdlive.aniu.tv/live/anzb.m3u8
+#EXTINF:-1 ,鍙扮仯澹规柊鑱?
+http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv3/playlist_w.m3u8
+#EXTINF:-1 ,鏃犵嚎璐㈢粡璧勮鍙?
+http://e1.vdowowza.vip.hk1.tvb.com/tvblive/smil:mobilehd_financeintl.smil/chunklist.m3u8
+#EXTINF:-1 ,鏃犵嚎璐㈢粡璧勮鍙?
+http://e1.vdowowza.vip.hk1.tvb.com/tvblive/smil:mobilehd_financeintl.smil/playlist.m3u8
+#EXTINF:-1 ,J2
+http://117.169.17.253/atv/01kjzcom__redirect__1392.m3u8
+#EXTINF:-1 ,缈＄繝鍙癏D
+http://123.207.42.38/tvb.php?type=jade
+#EXTINF:-1 ,鍑ゅ嚢鍗HD
+http://223.110.243.155:80/PLTV/3/224/3221226922/index.m3u8
+#EXTINF:-1 ,鍑ゅ嚢璧勮HD
+http://223.110.243.155:80/PLTV/3/224/3221226923/index.m3u8
+#EXTINF:-1 ,鍑ゅ嚢棣欐腐HD
+http://223.110.243.155:80/PLTV/3/224/3221226975/index.m3u8
+#EXTINF:-1 ,鍑ゅ嚢鍗涓枃鍙?
+http://223.110.245.139/ott.js.chinamobile.com/PLTV/3/224/3221226922/index.m3u8
+#EXTINF:-1 ,鍑ゅ嚢鍗璧勮鍙?
+http://183.207.249.35/PLTV/3/224/3221226923/index.m3u8
+#EXTINF:-1 ,鍑ゅ嚢棣欐腐
+http://183.207.249.35/PLTV/3/224/3221226975/index.m3u8
+#EXTINF:-1 ,濂囧鐢佃
+http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
+#EXTINF:-1 ,濂囧鐢佃
+http://media.fantv.hk/m3u8/archive/channel2.m3u8
+#EXTINF:-1 ,TVB濞变箰鏂伴椈鍙?
+http://token.tvb.com/stream/live/enews/hls/mobilehd_enews.smil
+#EXTINF:-1 ,TVB璐㈢粡璧勮鍙?
+http://e1.vdowowza.vip.hk1.tvb.com/tvblive/smil:mobilehd_financeintl.smil/playlist.m3u8
+#EXTINF:-1 ,TVB鏄熸渤
+http://59.125.55.79:60001/60002.m3u8
+#EXTINF:-1 ,婢充簹鍗
+http://stream.mastvnet.com/MASTV/sd/live.m3u8
+#EXTINF:-1 ,婢抽棬鑾茶姳
+http://3xhtut.hls1.z1.pili.qiniucdn.com/lotustv/5562e9e4d409d24c9600075c.m3u8
+#EXTINF:-1 ,鐜悆鐢佃鍙?
+http://live-cdn.xzxwhcb.com/hls/r86am856.m3u8
+#EXTINF:-1 ,鏂板崕绀句腑鏂?
+http://live.xinhuashixun.com/live/chn01/desc.m3u8
+#EXTINF:-1 ,婢抽棬鍜ㄨ
+http://103.233.191.138/ch5/info_ch5.live/playlist.m3u8
+#EXTINF:-1 ,婢宠浣撹偛
+http://103.233.191.138/ch4/sport_ch4.live/playlist.m3u8
+#EXTINF:-1 ,婢宠楂樻竻浣撹偛
+http://103.233.191.135/ch6/hd_ch6.live/playerlist.m3u8
+#EXTINF:-1 ,婢抽棬1
+http://61.244.22.4/ch3/ch3.live/playelist.m3u8
+#EXTINF:-1 ,婢抽棬2
+http://61.244.22.4/ch2/ch2.live/playelist.m3u8
+#EXTINF:-1 ,婢宠婢抽棬
+http://61.244.22.4/ch1/ch1.live/playelist.m3u8
+#EXTINF:-1 ,婢充簹鍗
+http://stream.mastvnet.com/MASTV/sd/live.m3u8
+#EXTINF:-1 ,婢抽棬鍗
+http://stream.mastvnet.com/MSTV/SD/live.m3u8
+#EXTINF:-1 ,濂借幈鍧炰腑鏂囧崼瑙?
+http://10505.liveplay.myqcloud.com/live/10505_a1619dd9836811e791eae435c87f075e_550.m3u8
+#EXTINF:-1 ,涓崕鍗绁炲窞鍙?
+http://pull.kapad.cn/live/livechtv/playlist.m3u
+#EXTINF:-1 ,holly wood
+http://iss01.ott.net.tw:8090/live/coship_DCTV0001421917254069_1200.m3u8
+#EXTINF:-1 ,濂借幈鍧炵數褰?
+http://tx.hls.huya.com/huyalive/30765679-2484192572-10669525853706125312-2847687498-10057-A-1521100607-1.m3u8
+#EXTINF:-1 ,HBO涓枃
+http://218.202.220.2:5000/nn_live.ts?id=HBO
+#EXTINF:-1 ,鐜悆鐢靛奖
+http://live-cdn.xzxwhcb.com/hls/sn88wrar.m3u8
+#EXTINF:-1 ,====== 鐢靛奖鐩存挱 ======
+http://4/4.m3u8
+#EXTINF:-1 ,鐔婄尗鐩存挱
+http://120.198.235.68/112.50.243.7/pLTV/88888888/224/3221226619/1.m3u8
+#EXTINF:-1 ,NEWTV鐖辨儏鍠滃墽
+http://120.198.235.68/112.50.243.7/pLTV/88888888/224/3221225877/1.m3u8
+#EXTINF:-1 ,NEWTV鎼忓嚮
+http://120.198.235.68/112.50.243.7/pLTV/88888888/224/3221225895/1.m3u8
+#EXTINF:-1 ,NEWTV瓒呯骇鐢佃鍓HD
+http://120.198.235.68/112.50.243.7/pLTV/88888888/224/3221225806/1.m3u8
+#EXTINF:-1 ,NEWTV瓒呯骇鐢靛奖FHD
+http://120.198.235.68/112.50.243.7/pLTV/88888888/224/3221225804/1.m3u8
+#EXTINF:-1 ,NEWTV瓒呯骇浣撹偛FHD
+http://120.198.235.68/112.50.243.7/pLTV/88888888/224/3221225803/1.m3u8
+#EXTINF:-1 ,NEWTV瓒呯骇缁艰壓FHD
+http://120.198.235.68/112.50.243.7/pLTV/88888888/224/3221225801/1.m3u8
+#EXTINF:-1 ,NEWTV鐢电珵
+http://120.198.235.68/112.50.243.7/pLTV/88888888/224/3221225894/1.m3u8
+#EXTINF:-1 ,NEWTV鍔ㄧ敾鐜嬪浗
+http://120.198.235.68/112.50.243.7/pLTV/88888888/224/3221225878/1.m3u8
+#EXTINF:-1 ,NEWTV鍔ㄤ綔鐢靛奖
+http://120.198.235.68/112.50.243.7/pLTV/88888888/224/3221225879/1.m3u8
+#EXTINF:-1 ,NEWTV鍙よ鍓у満
+http://120.198.235.68/112.50.243.7/pLTV/88888888/224/3221225880/1.m3u8
+#EXTINF:-1 ,NEWTV娴峰鍓у満
+http://120.198.235.68/112.50.243.7/pLTV/88888888/224/3221225881/1.m3u8
+#EXTINF:-1 ,NEWTV瀹跺涵鍓у満
+http://120.198.235.68/112.50.243.7/pLTV/88888888/224/3221225882/1.m3u8
+#EXTINF:-1 ,NEWTV鍋ュ悍鏈夌害
+http://120.198.235.68/112.50.243.7/pLTV/88888888/224/3221225883/1.m3u8
+#EXTINF:-1 ,NEWTV閲戠墝缁艰壓
+http://120.198.235.68/112.50.243.7/pLTV/88888888/224/3221225884/1.m3u8
+#EXTINF:-1 ,NEWTV鎯婃倸鎮枒
+http://120.198.235.68/112.50.243.7/pLTV/88888888/224/3221225885/1.m3u8
+#EXTINF:-1 ,NEWTV绮惧搧澶у墽
+http://120.198.235.68/112.50.243.7/pLTV/88888888/224/3221225889/1.m3u8
+#EXTINF:-1 ,NEWTV绮惧搧鐢靛奖
+http://120.198.235.68/112.50.243.7/pLTV/88888888/224/3221225891/1.m3u8
+#EXTINF:-1 ,NEWTV绮惧搧璁板綍
+http://120.198.235.68/112.50.243.7/pLTV/88888888/224/3221225888/1.m3u8
+#EXTINF:-1 ,NEWTV绮惧搧浣撹偛
+http://120.198.235.68/112.50.243.7/pLTV/88888888/224/3221225886/1.m3u8
+#EXTINF:-1 ,NEWTV鍐涙梾鍓у満
+http://120.198.235.68/112.50.243.7/pLTV/88888888/224/3221225887/1.m3u8
+#EXTINF:-1 ,NEWTV鍐涗簨璇勮
+http://120.198.235.68/112.50.243.7/pLTV/88888888/224/3221225890/1.m3u8
+#EXTINF:-1 ,NEWTV鏄庢槦澶х墖
+http://120.198.235.68/112.50.243.7/pLTV/88888888/224/3221225893/1.m3u8
+#EXTINF:-1 ,NEWTV娼杈ｅ﹩
+http://120.198.235.68/112.50.243.7/pLTV/88888888/224/3221226107/1.m3u8
+#EXTINF:-1 ,BESTV瓒呯骇浣撹偛FHD
+http://120.198.235.68/112.50.243.7/pLTV/88888888/224/3221226642/1.m3u8
+#EXTINF:-1 ,BESTV瓒呯骇浣撹偛FHD
+http://120.198.235.68/112.50.243.7/pLTV/88888888/224/3221226646/1.m3u8
+#EXTINF:-1 ,BESTV鐩存挱FHD
+http://120.198.235.68/112.50.243.7/pLTV/88888888/224/3221226560/1.m3u8
+#EXTINF:-1 ,BESTV鐩存挱FHD
+http://120.198.235.68/112.50.243.7/pLTV/88888888/224/3221226564/1.m3u8
+#EXTINF:-1 ,BESTV鐩存挱FHD
+http://120.198.235.68/112.50.243.7/pLTV/88888888/224/3221226565/1.m3u8
+#EXTINF:-1 ,BESTV鐩存挱FHD
+http://120.198.235.68/112.50.243.7/pLTV/88888888/224/3221226568/1.m3u8
+#EXTINF:-1 ,BESTV鐩存挱FHD
+http://120.198.235.68/112.50.243.7/pLTV/88888888/224/3221226569/1.m3u8
+#EXTINF:-1 ,BESTV鐩存挱FHD
+http://120.198.235.68/112.50.243.7/pLTV/88888888/224/3221226573/1.m3u8
+#EXTINF:-1 ,BESTV鐩存挱FHD
+http://120.198.235.68/112.50.243.7/pLTV/88888888/224/3221226599/1.m3u8
+#EXTINF:-1 ,BESTV鐩存挱FHD
+http://120.198.235.68/112.50.243.7/pLTV/88888888/224/3221226603/1.m3u8
+#EXTINF:-1 ,====== 澶х墖鐐规挱 ======
+http://5/5.m3u8
+#EXTINF:-1 ,鏃犲弻
+http://iqiyi.com-v-iqiyi.com/20181003/7607_f245e352/1000k/hls/index.m3u8
+#EXTINF:-1 ,鏌崡-闆剁殑鎵ц浜?
+https://yong.yongjiu6.com/ppvod/2E32EFEB212473D155743D231B83EB03.m3u8
+#EXTINF:-1 ,榛勯噾鍏勫紵
+https://yong.yongjiu6.com/ppvod/290D25FAD82B535579582A85466DE095.m3u8
+#EXTINF:-1 ,鏉庤尪鐨勫濡?
+https://yong.yongjiu6.com/ppvod/78999980AB1F72A1FB08D7BF8DDF80EC.m3u8
+#EXTINF:-1 ,鑳栧瓙琛屽姩闃?
+https://yong.yongjiu6.com/ppvod/32F5C685F925B4DB803EEF904BE3696B.m3u8
+#EXTINF:-1 ,姹熸箹鍎垮コ
+https://yong.yongjiu6.com/ppvod/B45F9BF4303937B4BC40C115EA188A3F.m3u8
+#EXTINF:-1 ,闀颁粨鐗╄
+https://youku.iqiyi-yongjiu.com/ppvod/B5C4FC40E79D0BDF199AC988E274ACA1.m3u8
+#EXTINF:-1 ,娣辨捣鍘嗛櫓璁?
+https://yong.yongjiu6.com/ppvod/30BAD40A90B9E5AA67E594E149F6A484.m3u8
+#EXTINF:-1 ,灏忓伔瀹舵棌
+https://yong.yongjiu6.com/ppvod/528AADCC0984F1B7400E987492BE93E2.m3u8
+#EXTINF:-1 ,鐨勫＋閫熼€?
+https://yong.yongjiu6.com/ppvod/16E3214D826CCE93A334566640A5EC03.m3u8
+#EXTINF:-1 ,====== 鏉冨埄鐨勬父鎴忕涓€瀛?======
+http://6/6.m3u8
+#EXTINF:-1 ,绗?1闆?
+http://agmeijucdnvideo.ixibeiren.com:8091/AGTVB/OVet5hntxo/01/index.m3u8
+#EXTINF:-1 ,绗?2闆?
+http://agmeijucdnvideo.ixibeiren.com:8091/AGTVB/OVet5hntxo/02/index.m3u8
+#EXTINF:-1 ,绗?3闆?
+http://agmeijucdnvideo.ixibeiren.com:8091/AGTVB/OVet5hntxo/03/index.m3u8
+#EXTINF:-1 ,绗?4闆?
+http://agmeijucdnvideo.ixibeiren.com:8091/AGTVB/OVet5hntxo/04/index.m3u8
+#EXTINF:-1 ,绗?5闆?
+http://agmeijucdnvideo.ixibeiren.com:8091/AGTVB/OVet5hntxo/05/index.m3u8
+#EXTINF:-1 ,绗?6闆?
+http://agmeijucdnvideo.ixibeiren.com:8091/AGTVB/OVet5hntxo/06/index.m3u8
+#EXTINF:-1 ,绗?7闆?
+http://agmeijucdnvideo.ixibeiren.com:8091/AGTVB/OVet5hntxo/07/index.m3u8
+#EXTINF:-1 ,绗?8闆?
+http://agmeijucdnvideo.ixibeiren.com:8091/AGTVB/OVet5hntxo/08/index.m3u8
+#EXTINF:-1 ,绗?9闆?
+http://agmeijucdnvideo.ixibeiren.com:8091/AGTVB/OVet5hntxo/09/index.m3u8
+#EXTINF:-1 ,绗?0闆?
+http://agmeijucdnvideo.ixibeiren.com:8091/AGTVB/OVet5hntxo/10/index.m3u8
+#EXTINF:-1 ,====== 鏉冨埄鐨勬父鎴忕浜屽 ======
+http://7/7.m3u8
+#EXTINF:-1 ,绗?1闆?
+http://agmeijucdnvideo.ixibeiren.com:8091/AGTVB/IUcodouuif/01/index.m3u8
+#EXTINF:-1 ,绗?2闆?
+http://agmeijucdnvideo.ixibeiren.com:8091/AGTVB/IUcodouuif/02/index.m3u8
+#EXTINF:-1 ,绗?3闆?
+http://agmeijucdnvideo.ixibeiren.com:8091/AGTVB/IUcodouuif/03/index.m3u8
+#EXTINF:-1 ,绗?4闆?
+http://agmeijucdnvideo.ixibeiren.com:8091/AGTVB/IUcodouuif/04/index.m3u8
+#EXTINF:-1 ,绗?5闆?
+http://agmeijucdnvideo.ixibeiren.com:8091/AGTVB/IUcodouuif/05/index.m3u8
+#EXTINF:-1 ,绗?6闆?
+http://agmeijucdnvideo.ixibeiren.com:8091/AGTVB/IUcodouuif/06/index.m3u8
+#EXTINF:-1 ,绗?7闆?
+http://agmeijucdnvideo.ixibeiren.com:8091/AGTVB/IUcodouuif/07/index.m3u8
+#EXTINF:-1 ,绗?8闆?
+http://agmeijucdnvideo.ixibeiren.com:8091/AGTVB/IUcodouuif/08/index.m3u8
+#EXTINF:-1 ,绗?9闆?
+http://agmeijucdnvideo.ixibeiren.com:8091/AGTVB/IUcodouuif/09/index.m3u8
+#EXTINF:-1 ,绗?0闆?
+http://agmeijucdnvideo.ixibeiren.com:8091/AGTVB/IUcodouuif/10/index.m3u8
+#EXTINF:-1 ,====== 鏉冨埄鐨勬父鎴忕涓夊 ======
+http://8/8.m3u8
+#EXTINF:-1 ,绗?1闆?
+http://agmeijucdnvideo.ixibeiren.com:8091/AGTVB/TVfwcoe6hg/01/index.m3u8
+#EXTINF:-1 ,绗?2闆?
+http://agmeijucdnvideo.ixibeiren.com:8091/AGTVB/TVfwcoe6hg/02/index.m3u8
+#EXTINF:-1 ,绗?3闆?
+http://agmeijucdnvideo.ixibeiren.com:8091/AGTVB/TVfwcoe6hg/03/index.m3u8
+#EXTINF:-1 ,绗?4闆?
+http://agmeijucdnvideo.ixibeiren.com:8091/AGTVB/TVfwcoe6hg/04/index.m3u8
+#EXTINF:-1 ,绗?5闆?
+http://agmeijucdnvideo.ixibeiren.com:8091/AGTVB/TVfwcoe6hg/05/index.m3u8
+#EXTINF:-1 ,绗?6闆?
+http://agmeijucdnvideo.ixibeiren.com:8091/AGTVB/TVfwcoe6hg/06/index.m3u8
+#EXTINF:-1 ,绗?7闆?
+http://agmeijucdnvideo.ixibeiren.com:8091/AGTVB/TVfwcoe6hg/07/index.m3u8
+#EXTINF:-1 ,绗?8闆?
+http://agmeijucdnvideo.ixibeiren.com:8091/AGTVB/TVfwcoe6hg/08/index.m3u8
+#EXTINF:-1 ,绗?9闆?
+http://agmeijucdnvideo.ixibeiren.com:8091/AGTVB/TVfwcoe6hg/09/index.m3u8
+#EXTINF:-1 ,绗?0闆?
+http://agmeijucdnvideo.ixibeiren.com:8091/AGTVB/TVfwcoe6hg/10/index.m3u8
+#EXTINF:-1 ,====== 鏉冨埄鐨勬父鎴忕鍥涘 ======
+http://9/9.m3u8
+#EXTINF:-1 ,绗?1闆?
+http://agmeijucdnvideo.ixibeiren.com:8091/AGTVB/RZluxxvi5n/01/index.m3u8
+#EXTINF:-1 ,绗?2闆?
+http://agmeijucdnvideo.ixibeiren.com:8091/AGTVB/RZluxxvi5n/02/index.m3u8
+#EXTINF:-1 ,绗?3闆?
+http://agmeijucdnvideo.ixibeiren.com:8091/AGTVB/RZluxxvi5n/03/index.m3u8
+#EXTINF:-1 ,绗?4闆?
+http://agmeijucdnvideo.ixibeiren.com:8091/AGTVB/RZluxxvi5n/04/index.m3u8
+#EXTINF:-1 ,绗?5闆?
+http://agmeijucdnvideo.ixibeiren.com:8091/AGTVB/RZluxxvi5n/05/index.m3u8
+#EXTINF:-1 ,绗?6闆?
+http://agmeijucdnvideo.ixibeiren.com:8091/AGTVB/RZluxxvi5n/06/index.m3u8
+#EXTINF:-1 ,绗?7闆?
+http://agmeijucdnvideo.ixibeiren.com:8091/AGTVB/RZluxxvi5n/07/index.m3u8
+#EXTINF:-1 ,绗?8闆?
+http://agmeijucdnvideo.ixibeiren.com:8091/AGTVB/RZluxxvi5n/08/index.m3u8
+#EXTINF:-1 ,绗?9闆?
+http://agmeijucdnvideo.ixibeiren.com:8091/AGTVB/RZluxxvi5n/09/index.m3u8
+#EXTINF:-1 ,绗?0闆?
+http://agmeijucdnvideo.ixibeiren.com:8091/AGTVB/RZluxxvi5n/10/index.m3u8
+#EXTINF:-1 ,====== 鏉冨埄鐨勬父鎴忕浜斿 ======
+http://10/10.m3u8
+#EXTINF:-1 ,绗?1闆?
+http://agmeijucdnvideo.ixibeiren.com:8091/AGTVB/PGw9r2ni2b/01/index.m3u8
+#EXTINF:-1 ,绗?2闆?
+http://agmeijucdnvideo.ixibeiren.com:8091/AGTVB/PGw9r2ni2b/02/index.m3u8
+#EXTINF:-1 ,绗?3闆?
+http://agmeijucdnvideo.ixibeiren.com:8091/AGTVB/PGw9r2ni2b/03/index.m3u8
+#EXTINF:-1 ,绗?4闆?
+http://agmeijucdnvideo.ixibeiren.com:8091/AGTVB/PGw9r2ni2b/04/index.m3u8
+#EXTINF:-1 ,绗?5闆?
+http://agmeijucdnvideo.ixibeiren.com:8091/AGTVB/PGw9r2ni2b/05/index.m3u8
+#EXTINF:-1 ,绗?6闆?
+http://agmeijucdnvideo.ixibeiren.com:8091/AGTVB/PGw9r2ni2b/06/index.m3u8
+#EXTINF:-1 ,绗?7闆?
+http://agmeijucdnvideo.ixibeiren.com:8091/AGTVB/PGw9r2ni2b/07/index.m3u8
+#EXTINF:-1 ,绗?8闆?
+http://agmeijucdnvideo.ixibeiren.com:8091/AGTVB/PGw9r2ni2b/08/index.m3u8
+#EXTINF:-1 ,绗?9闆?
+http://agmeijucdnvideo.ixibeiren.com:8091/AGTVB/PGw9r2ni2b/09/index.m3u8
+#EXTINF:-1 ,绗?0闆?
+http://agmeijucdnvideo.ixibeiren.com:8091/AGTVB/PGw9r2ni2b/10/index.m3u8
+#EXTINF:-1 ,====== 鏉冨埄鐨勬父鎴忕鍏 ======
+http://11/11.m3u8
+#EXTINF:-1 ,绗?1闆?
+http://agmeijucdnvideo.ixibeiren.com:8091/AGTVB/VYoidn8p5s/01/index.m3u8
+#EXTINF:-1 ,绗?2闆?
+http://agmeijucdnvideo.ixibeiren.com:8091/AGTVB/VYoidn8p5s/02/index.m3u8
+#EXTINF:-1 ,绗?3闆?
+http://agmeijucdnvideo.ixibeiren.com:8091/AGTVB/VYoidn8p5s/03/index.m3u8
+#EXTINF:-1 ,绗?4闆?
+http://agmeijucdnvideo.ixibeiren.com:8091/AGTVB/VYoidn8p5s/04/index.m3u8
+#EXTINF:-1 ,绗?5闆?
+http://agmeijucdnvideo.ixibeiren.com:8091/AGTVB/VYoidn8p5s/05/index.m3u8
+#EXTINF:-1 ,绗?6闆?
+http://agmeijucdnvideo.ixibeiren.com:8091/AGTVB/VYoidn8p5s/06/index.m3u8
+#EXTINF:-1 ,绗?7闆?
+http://agmeijucdnvideo.ixibeiren.com:8091/AGTVB/VYoidn8p5s/07/index.m3u8
+#EXTINF:-1 ,绗?8闆?
+http://agmeijucdnvideo.ixibeiren.com:8091/AGTVB/VYoidn8p5s/08/index.m3u8
+#EXTINF:-1 ,绗?9闆?
+http://agmeijucdnvideo.ixibeiren.com:8091/AGTVB/VYoidn8p5s/09/index.m3u8
+#EXTINF:-1 ,绗?0闆?
+http://agmeijucdnvideo.ixibeiren.com:8091/AGTVB/VYoidn8p5s/10/index.m3u8
+#EXTINF:-1 ,====== 鏉冨埄鐨勬父鎴忕涓冨 ======
+http://12/12.m3u8
+#EXTINF:-1 ,绗?1闆?
+http://agmeijucdnvideo.ixibeiren.com:8091/AGTVB/DW6fwip573/01/index.m3u8
+#EXTINF:-1 ,绗?2闆?
+http://agmeijucdnvideo.ixibeiren.com:8091/AGTVB/DW6fwip573/02/index.m3u8
+#EXTINF:-1 ,绗?3闆?
+http://agmeijucdnvideo.ixibeiren.com:8091/AGTVB/DW6fwip573/03/index.m3u8
+#EXTINF:-1 ,绗?4闆?
+http://agmeijucdnvideo.ixibeiren.com:8091/AGTVB/DW6fwip573/04/index.m3u8
+#EXTINF:-1 ,绗?5闆?
+http://agmeijucdnvideo.ixibeiren.com:8091/AGTVB/DW6fwip573/05/index.m3u8
+#EXTINF:-1 ,绗?6闆?
+http://agmeijucdnvideo.ixibeiren.com:8091/AGTVB/DW6fwip573/06/index.m3u8
+#EXTINF:-1 ,绗?7闆?
+http://agmeijucdnvideo.ixibeiren.com:8091/AGTVB/DW6fwip573/07/index.m3u8
+#EXTINF:-1 ,====== 榛戦暅 绗竴瀛?======
+http://13/13.m3u8
+#EXTINF:-1 ,绗?1闆?
+http://agmeijucdnvideo.ixibeiren.com:8091/AGTVB/IS50u0dl0n/01/index.m3u8
+#EXTINF:-1 ,绗?2闆?
+http://agmeijucdnvideo.ixibeiren.com:8091/AGTVB/IS50u0dl0n/03/index.m3u8
+#EXTINF:-1 ,====== 榛戦暅 绗簩瀛?======
+http://14/14.m3u8
+#EXTINF:-1 ,绗?1闆?
+http://agmeijucdnvideo.ixibeiren.com:8091/AGTVB/PHsrkjgbgu/01/index.m3u8
+#EXTINF:-1 ,绗?2闆?
+http://agmeijucdnvideo.ixibeiren.com:8091/AGTVB/PHsrkjgbgu/02/index.m3u8
+#EXTINF:-1 ,绗?3闆?
+http://agmeijucdnvideo.ixibeiren.com:8091/AGTVB/PHsrkjgbgu/03/index.m3u8
+#EXTINF:-1 ,====== 榛戦暅 绗笁瀛?======
+http://15/15.m3u8
+#EXTINF:-1 ,绗?1闆?
+http://agmeijucdnvideo.ixibeiren.com:8091/AGTVB/WPl1equuj1/01/index.m3u8
+#EXTINF:-1 ,绗?2闆?
+http://agmeijucdnvideo.ixibeiren.com:8091/AGTVB/WPl1equuj1/02/index.m3u8
+#EXTINF:-1 ,绗?3闆?
+http://agmeijucdnvideo.ixibeiren.com:8091/AGTVB/WPl1equuj1/03/index.m3u8
+#EXTINF:-1 ,绗?4闆?
+http://agmeijucdnvideo.ixibeiren.com:8091/AGTVB/WPl1equuj1/04/index.m3u8
+#EXTINF:-1 ,绗?5闆?
+http://agmeijucdnvideo.ixibeiren.com:8091/AGTVB/WPl1equuj1/05/index.m3u8
+#EXTINF:-1 ,绗?6闆?
+http://agmeijucdnvideo.ixibeiren.com:8091/AGTVB/WPl1equuj1/06/index.m
+#EXTINF:-1 ,====== 瓒呮劅鐚庢潃 绗笁瀛?======
+http://16/16.m3u8
+#EXTINF:-1 ,绗?1闆?
+http://agmeijucdnvideo.ixibeiren.com:8091/AGTVB/NOmo874jli/12/index.m3u8
+#EXTINF:-1 ,绗?2闆?
+http://agmeijucdnvideo.ixibeiren.com:8091/AGTVB/NOmo874jli/11/index.m3u8
+#EXTINF:-1 ,绗?3闆?
+http://agmeijucdnvideo.ixibeiren.com:8091/AGTVB/NOmo874jli/10/index.m3u8
+#EXTINF:-1 ,绗?4闆?
+http://agmeijucdnvideo.ixibeiren.com:8091/AGTVB/NOmo874jli/09/index.m3u8
+#EXTINF:-1 ,绗?5闆?
+http://agmeijucdnvideo.ixibeiren.com:8091/AGTVB/NOmo874jli/08/index.m3u8
+#EXTINF:-1 ,绗?6闆?
+http://agmeijucdnvideo.ixibeiren.com:8091/AGTVB/NOmo874jli/07/index.m3u8
+#EXTINF:-1 ,绗?7闆?
+http://agmeijucdnvideo.ixibeiren.com:8091/AGTVB/NOmo874jli/06/index.m3u8
+#EXTINF:-1 ,绗?8闆?
+http://agmeijucdnvideo.ixibeiren.com:8091/AGTVB/NOmo874jli/05/index.m3u8
+#EXTINF:-1 ,绗?9闆?
+http://agmeijucdnvideo.ixibeiren.com:8091/AGTVB/NOmo874jli/04/index.m3u8
+#EXTINF:-1 ,绗?0闆?
+http://agmeijucdnvideo.ixibeiren.com:8091/AGTVB/NOmo874jli/03/index.m3u8
+#EXTINF:-1 ,绗?1闆?
+http://agmeijucdnvideo.ixibeiren.com:8091/AGTVB/NOmo874jli/02/index.m3u8
+#EXTINF:-1 ,绗?2闆?
+http://agmeijucdnvideo.ixibeiren.com:8091/AGTVB/NOmo874jli/01/index.m3u8
+#EXTINF:-1 ,====== 瓒呮劅鐚庢潃 绗簩瀛?======
+http://17/17.m3u8
+#EXTINF:-1 ,绗?1闆?
+http://agmeijucdnvideo.ixibeiren.com:8091/AGTVB/WWj4ge4gx2/11/index.m3u8
+#EXTINF:-1 ,绗?2闆?
+http://agmeijucdnvideo.ixibeiren.com:8091/AGTVB/WWj4ge4gx2/10/index.m3u8
+#EXTINF:-1 ,绗?3闆?
+http://agmeijucdnvideo.ixibeiren.com:8091/AGTVB/WWj4ge4gx2/09/index.m3u8
+#EXTINF:-1 ,绗?4闆?
+http://agmeijucdnvideo.ixibeiren.com:8091/AGTVB/WWj4ge4gx2/08/index.m3u8
+#EXTINF:-1 ,绗?5闆?
+http://agmeijucdnvideo.ixibeiren.com:8091/AGTVB/WWj4ge4gx2/07/index.m3u8
+#EXTINF:-1 ,绗?6闆?
+http://agmeijucdnvideo.ixibeiren.com:8091/AGTVB/WWj4ge4gx2/06/index.m3u8
+#EXTINF:-1 ,绗?7闆?
+http://agmeijucdnvideo.ixibeiren.com:8091/AGTVB/WWj4ge4gx2/05/index.m3u8
+#EXTINF:-1 ,绗?8闆?
+http://agmeijucdnvideo.ixibeiren.com:8091/AGTVB/WWj4ge4gx2/04/index.m3u8
+#EXTINF:-1 ,绗?9闆?
+http://agmeijucdnvideo.ixibeiren.com:8091/AGTVB/WWj4ge4gx2/03/index.m3u8
+#EXTINF:-1 ,绗?0闆?
+http://agmeijucdnvideo.ixibeiren.com:8091/AGTVB/WWj4ge4gx2/02/index.m3u8
+#EXTINF:-1 ,绗?1闆?
+http://agmeijucdnvideo.ixibeiren.com:8091/AGTVB/WWj4ge4gx2/01/index.m3u8
+#EXTINF:-1 ,====== 姹夊凹鎷?绗竴瀛?======
+http://18/18.m3u8
+#EXTINF:-1 ,绗?1闆?
+https://agmeijucdnvideo.ixibeiren.com/AGTVB/XE5uie438m/01/index.m3u8
+#EXTINF:-1 ,绗?2闆?
+https://agmeijucdnvideo.ixibeiren.com/AGTVB/XE5uie438m/02/index.m3u8
+#EXTINF:-1 ,绗?3闆?
+https://agmeijucdnvideo.ixibeiren.com/AGTVB/XE5uie438m/03/index.m3u8
+#EXTINF:-1 ,绗?4闆?
+https://agmeijucdnvideo.ixibeiren.com/AGTVB/XE5uie438m/04/index.m3u8
+#EXTINF:-1 ,绗?5闆?
+https://agmeijucdnvideo.ixibeiren.com/AGTVB/XE5uie438m/05/index.m3u8
+#EXTINF:-1 ,绗?6闆?
+https://agmeijucdnvideo.ixibeiren.com/AGTVB/XE5uie438m/06/index.m3u8
+#EXTINF:-1 ,绗?7闆?
+https://agmeijucdnvideo.ixibeiren.com/AGTVB/XE5uie438m/07/index.m3u8
+#EXTINF:-1 ,绗?8闆?
+https://agmeijucdnvideo.ixibeiren.com/AGTVB/XE5uie438m/08/index.m3u8
+#EXTINF:-1 ,绗?9闆?
+https://agmeijucdnvideo.ixibeiren.com/AGTVB/XE5uie438m/09/index.m3u8
+#EXTINF:-1 ,绗?0闆?
+https://agmeijucdnvideo.ixibeiren.com/AGTVB/XE5uie438m/10/index.m3u8
+#EXTINF:-1 ,绗?1闆?
+https://agmeijucdnvideo.ixibeiren.com/AGTVB/XE5uie438m/11/index.m3u8
+#EXTINF:-1 ,绗?2闆?
+https://agmeijucdnvideo.ixibeiren.com/AGTVB/XE5uie438m/12/index.m3u8
+#EXTINF:-1 ,绗?3闆?
+https://agmeijucdnvideo.ixibeiren.com/AGTVB/XE5uie438m/13/index.m3u8
+#EXTINF:-1 ,====== 姹夊凹鎷?绗簩瀛?======
+http://19/19.m3u8
+#EXTINF:-1 ,绗?1闆?
+https://agmeijucdnvideo.ixibeiren.com/AGTVB/TR3xgpb1if/01/index.m3u8
+#EXTINF:-1 ,绗?2闆?
+https://agmeijucdnvideo.ixibeiren.com/AGTVB/TR3xgpb1if/02/index.m3u8
+#EXTINF:-1 ,绗?3闆?
+https://agmeijucdnvideo.ixibeiren.com/AGTVB/TR3xgpb1if/03/index.m3u8
+#EXTINF:-1 ,绗?4闆?
+https://agmeijucdnvideo.ixibeiren.com/AGTVB/TR3xgpb1if/04/index.m3u8
+#EXTINF:-1 ,绗?5闆?
+https://agmeijucdnvideo.ixibeiren.com/AGTVB/TR3xgpb1if/05/index.m3u8
+#EXTINF:-1 ,绗?6闆?
+https://agmeijucdnvideo.ixibeiren.com/AGTVB/TR3xgpb1if/06/index.m3u8
+#EXTINF:-1 ,绗?7闆?
+https://agmeijucdnvideo.ixibeiren.com/AGTVB/TR3xgpb1if/07/index.m3u8
+#EXTINF:-1 ,绗?8闆?
+https://agmeijucdnvideo.ixibeiren.com/AGTVB/TR3xgpb1if/08/index.m3u8
+#EXTINF:-1 ,绗?9闆?
+https://agmeijucdnvideo.ixibeiren.com/AGTVB/TR3xgpb1if/09/index.m3u8
+#EXTINF:-1 ,绗?0闆?
+https://agmeijucdnvideo.ixibeiren.com/AGTVB/TR3xgpb1if/10/index.m3u8
+#EXTINF:-1 ,绗?1闆?
+https://agmeijucdnvideo.ixibeiren.com/AGTVB/TR3xgpb1if/11/index.m3u8
+#EXTINF:-1 ,绗?2闆?
+https://agmeijucdnvideo.ixibeiren.com/AGTVB/TR3xgpb1if/12/index.m3u8
+#EXTINF:-1 ,绗?3闆?
+https://agmeijucdnvideo.ixibeiren.com/AGTVB/TR3xgpb1if/13/index.m3u8
+#EXTINF:-1 ,====== 鍏朵粬 ======
+http://20/20.m3u8
+#EXTINF:-1 ,LOL鐩存挱
+http://dlhls.cdn.zhanqi.tv/zqlive/111245_aOd9I.m3u8
+#EXTINF:-1 ,WWE
+http://liveal.quanmin.tv/live/2115620138.flv
+#EXTINF:-1 ,鍒濅綋楠孾闊
+https://www4.laqddc.com/hls/2018/06/04/Z7E6JxSh/playlist.m3u8
+#EXTINF:-1 ,yin涔变功鐢焄闊
+https://www.laqddc.com/hls/2018/01/26/z9O0bP62/playlist.m3u8
+#EXTINF:-1 ,閲戠摱姊匸鏉ㄦ€濇晱]
+https://www.laqddc.com/hls/2018/01/28/LKOte6LG/playlist.m3u8
+#EXTINF:-1 ,铚滄鎴愮啛鏃?3D
+https://www.laqddc.com/hls/2018/01/27/r6SXU4v5/playlist.m3u8
+#EXTINF:-1 ,鑺变笌铔嘯鏃
+https://www.laqddc.com/hls/2018/01/26/AyWBwHdX/playlist.m3u8
+#EXTINF:-1 ,铚滄鎴愮啛鏃禰鏉庝附鐝峕
+https://www3.laqddc.com/hls/2018/04/01/JWYSDycY/playlist.m3u8
+#EXTINF:-1 ,HOT1
+https://5a2a51fc4cfde.streamlock.net/lfh/_definst_/Stream1/playlist.m3u8
+#EXTINF:-1 ,HOT2
+https://5a2a51fc4cfde.streamlock.net/lfh/_definst_/Stream2/playlist.m3u8
+#EXTINF:-1 ,HOT3
+https://5a2a51fc4cfde.streamlock.net/lfh/_definst_/Stream3/playlist.m3u8
+#EXTINF:-1 ,濂ヨ4
+http://172.104.114.178/vod/live/4/live.m3u8?key=g1brvje080fk82ks1t1me0dli4
+#EXTINF:-1 ,濂ヨ2
+http://172.104.114.178/vod/live/2/live.m3u8?key=g1brvje080fk82ks1t1me0dli4
