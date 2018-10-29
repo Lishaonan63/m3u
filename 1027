@@ -543,6 +543,26 @@ http://z5ams.akamaized.net/zeetvsd/tracks-v2a1/index.m3u8
 http://z5ams.akamaized.net/andflixhd/tracks-v1a1/index.m3u8
 #EXTINF:-1 ,TVB无线新闻
 http://m.567it.com/inews.m3u8
+#EXTINF:-1,RTM TV1
+https://rtm-live.glueapi.io/smil:rtmch001.smil/chunklist_b1064000_sleng.m3u8
+#EXTINF:-1,RTM TV2
+https://rtm-live.glueapi.io/smil:rtmch002.smil/chunklist_b644000_sleng.m3u8
+#EXTINF:-1,RTM Parlimen
+https://rtm-live.glueapi.io/smil:rtmch007/chunklist_b305000_sleng.m3u8
+#EXTINF:-1,Astro Awani
+http://bcoveliveios-i.akamaihd.net/hls/live/225864/4508222217001/master_04.m3u8
+#EXTINF:-1,Malaysia 1News
+https://rtm-live.glueapi.io/smil:rtmch006.smil/chunklist_b1040000_sleng.m3u8
+#EXTINF:-1,Bernama News Channel
+http://stream2.1malaysiaiptv.com/mylive/smil:bernama2_all.smil/chunklist_w211690553_b650000_sleng.m3u8
+#EXTINF:-1,Channel NewsAsia
+https://drsh196ivjwe8.cloudfront.net/hls/cnai/03.m3u8
+#EXTINF:-1,Miao Mi TV
+https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/02.m3u8
+#EXTINF:-1,TVi
+https://rtm-live.glueapi.io/smil:rtmch004.smil/chunklist_b974000_sleng.m3u8
+#EXTINF:-1,奥多频道OKTO
+http://d2jk87psbjrjdz.cloudfront.net/livehttporigin/okto/chunklist.m3u8
 #EXTINF:-1 ,新加坡u8
 http://ftach8.akamaized.net/out/v1/e6c84096fa424e7eaab636021b2b86ec/index_1.m3u8
 #EXTINF:-1 ,====== 电影直播 ======
